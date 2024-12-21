@@ -1,0 +1,12 @@
+* {
+    font-family: "Lato" , san-serif;
+    
+}
+
+.text-center {
+    text-align: center;
+}
+body {
+    padding: 60px;
+    line-height: 1.5;
+}
